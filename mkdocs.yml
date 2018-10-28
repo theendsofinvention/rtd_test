@@ -1,0 +1,6 @@
+site_name: Changelogs
+pages:
+- Home: 'index.md'
+- Changelogs:
+    - test: 'changelog/test.md'
+theme: readthedocs
